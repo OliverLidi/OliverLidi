@@ -21,5 +21,9 @@ Estou  começaçando no mundo da Programação! Sou estudante de Engenharia de S
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OliverLidi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OliverLidi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverLidi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
