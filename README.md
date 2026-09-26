@@ -1,6 +1,6 @@
 ### Olá!! 👋
 
-Estou  começando no mundo da Programação! Sou estudante de Engenharia de Software na Estácio e apaixonada por tecnologia. Atualmente, estou  focando os meus estudos em ecossistemas modernos de desenvolvimento.
+Estou  começando no mundo da Programação! Sou apaixonada por tecnologia. Atualmente, estou  focando os meus estudos em ecossistemas modernos de desenvolvimento.
 
 ---
 
