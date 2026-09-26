@@ -1,6 +1,6 @@
 ### Olá!! 👋
 
-Estou  começaçando no mundo da Programação! Sou estudante de Engenharia de Software na Estácio e apaixonada por tecnologia. Atualmente, estou  focando os meus estudos em ecossistemas modernos de desenvolvimento.
+Estou  começando no mundo da Programação! Sou estudante de Engenharia de Software na Estácio e apaixonada por tecnologia. Atualmente, estou  focando os meus estudos em ecossistemas modernos de desenvolvimento.
 
 ---
 
@@ -18,12 +18,12 @@ Estou  começaçando no mundo da Programação! Sou estudante de Engenharia de S
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚀 Principais Projetos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OliverLidi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+- **[MeuGerenciadorWeb](https://github.com/OliverLidi/MeuGerenciadorWeb-CSharp):** Sistema Full-Stack de gestão de estoque e produtos desenvolvido com .NET Minimal API, React (Vite), SQLite e autenticação JWT.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverLidi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+---
+
+### 📚 Em constante evolução...
+* Focada em desenvolver aplicações web robustas e escaláveis.
+* Sempre  praticando conceitos de APIs, controle de versão com Git e arquitetura limpa.
