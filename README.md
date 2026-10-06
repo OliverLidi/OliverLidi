@@ -2,6 +2,9 @@
 
 Estou  começando no mundo da Programação! Sou apaixonada por tecnologia. Atualmente, estou  focando os meus estudos em ecossistemas modernos de desenvolvimento.
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3381c552-e88b-44e7-9ece-a82e3032059a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
