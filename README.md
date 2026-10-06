@@ -2,13 +2,7 @@
 
 Estou  começando no mundo da Programação! Sou apaixonada por tecnologia. Atualmente, estou  focando os meus estudos em ecossistemas modernos de desenvolvimento.
 
-
-<div align="center">
-  <a href="O_LINK_DA_TUA_CREDLY">
-    <img src="https://images.credly.com/size/340x340/images/3381c552-e88b-44e7-9ece-a82e3032059a.png" width="140px" alt="AWS Badge">
-  </a>
-</div>
-
+[![Badge Credly](https://images.credly.com/size/340x340/images/3381c552-e88b-44e7-9ece-a82e3032059a.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner)
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
